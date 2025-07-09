@@ -1,6 +1,6 @@
 public class StringExample{
     public static void main(String[]  args){
-        String s= "Aditya";
+        String s= "Aditya bhise";
 
         // in java strings are immutable
         //lets try 
@@ -10,5 +10,6 @@ public class StringExample{
         //s.charAt(0)= "a"; 
         // This line will cause a compile-time error because strings are immutable in Java.
         System.out.println(s);
+
     }
 }
